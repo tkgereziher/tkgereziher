@@ -1,6 +1,17 @@
 👋 Hi, I’m Teklay Gereziher
-👀 I’m interested in web development, AI, and open-source projects.
-🌱 I’m currently learning advanced JavaScript frameworks and machine learning concepts.
-💞️ I’m looking to collaborate on innovative projects that combine technology and creativity.
-📫 How to reach me: You can contact me via email at tkgereziher@gmail.com or find me on Twitter @tkgereziker.
-Pronouns: he/him
+
+💻 I’m a Backend-Focused Senior Software Engineer with 5+ years of experience building scalable, secure web applications and APIs.
+
+🚀 I specialize in .NET Core, Laravel, and Node.js, with solid experience contributing to frontend development using Angular and Vue.js.
+
+🧠 I’m passionate about solving complex problems, writing clean and maintainable code, and continuously improving system performance and scalability.
+
+🌱 Currently learning advanced JavaScript frameworks and exploring machine learning concepts.
+
+🤝 Open to collaborating on innovative projects, open-source contributions, and backend-heavy systems.
+
+📫 How to reach me:
+- Email: tkgereziher@gmail.com  
+- Twitter: @tkgereziker  
+
+😄 Pronouns: he/him
