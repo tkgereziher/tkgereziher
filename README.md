@@ -14,4 +14,4 @@
 - Email: tkgereziher@gmail.com  
 - Twitter: @tkgereziker  
 
-😄 Pronouns: he/him
+🧑 Pronouns: he/him
