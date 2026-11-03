@@ -37,8 +37,6 @@ I'm open to collaborating on interesting projects, contributing to open source, 
 - 📧 Email: [tkgereziher@gmail.com](mailto:tkgereziher@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/tkgereziher](https://linkedin.com/in/tkgereziher)
 - 🌐 Portfolio: [teklay-gereziher.vercel.app](https://teklay-gereziher.vercel.app/)
-- 🐦 Twitter/X: [@tkgereziker](https://twitter.com/tkgereziker)
-
 ---
 
 ⭐ *Building software that solves real problems and creates meaningful impact.*
