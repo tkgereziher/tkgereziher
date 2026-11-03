@@ -1,17 +1,44 @@
-👋 Hi, I’m Teklay Gereziher
+# 👋 Hi, I'm Teklay Gereziher
 
-💻 I’m a Backend-Focused Senior Software Engineer with 5+ years of experience building scalable, secure web applications and APIs.
+### 🚀 Senior Full Stack Engineer | Angular • .NET • Spring Boot • Node.js • Laravel
 
-🚀 I specialize in .NET Core, Laravel, and Node.js, with solid experience contributing to frontend development using Angular and Vue.js.
+I'm a Senior Full Stack Engineer with **6+ years of experience** designing, developing, and maintaining scalable, secure, and high-performance software solutions across logistics, digital learning, and payment platforms.
 
-🧠 I’m passionate about solving complex problems, writing clean and maintainable code, and continuously improving system performance and scalability.
+I enjoy building reliable systems end to end — from intuitive user interfaces to robust backend services, APIs, and distributed architectures.
 
-🌱 Currently learning advanced JavaScript frameworks and exploring machine learning concepts.
+### 💻 Technical Expertise
 
-🤝 Open to collaborating on innovative projects, open-source contributions, and backend-heavy systems.
+- **Frontend:** Angular, Vue.js, TypeScript, JavaScript, RxJS, NgRx
+- **Backend:** C#/.NET, Java/Spring Boot, Node.js, PHP/Laravel
+- **Architecture:** Microservices, RESTful APIs, Event-Driven Architecture, Modular Architecture
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Messaging:** Apache Kafka
+- **DevOps & Tools:** Docker, Git, GitHub, GitLab, CI/CD
+- **Security & Integration:** Keycloak, JWT, OAuth 2.0, OpenAPI/Swagger
 
-📫 How to reach me:
-- Email: tkgereziher@gmail.com  
-- Twitter: @tkgereziker  
+### 🧠 What I'm Passionate About
 
-🧑 Pronouns: he/him
+- Designing scalable software architectures and distributed systems.
+- Building maintainable, secure, and high-quality applications.
+- Improving system performance, reliability, and database efficiency.
+- Solving complex engineering challenges through practical solutions.
+- Exploring SaaS opportunities and building impactful software products.
+
+### 🌱 Currently Exploring
+
+- Advanced software architecture and system design.
+- AI-powered applications and machine learning.
+- Building and scaling SaaS products.
+
+### 🤝 Let's Connect
+
+I'm open to collaborating on interesting projects, contributing to open source, and exploring **remote Full Stack Engineering opportunities**.
+
+- 📧 Email: [tkgereziher@gmail.com](mailto:tkgereziher@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/tkgereziher](https://linkedin.com/in/tkgereziher)
+- 🌐 Portfolio: [teklay-gereziher.vercel.app](https://teklay-gereziher.vercel.app/)
+- 🐦 Twitter/X: [@tkgereziker](https://twitter.com/tkgereziker)
+
+---
+
+⭐ *Building software that solves real problems and creates meaningful impact.*
